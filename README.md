@@ -19,7 +19,8 @@ Cristina Savin, csavin@nyu.edu
 Office hours:  TBD 
 
 ### TAs
-
+Section 002 - Haresh Rengaraj Rajamohan (hrr288@nyu.edu)
+Section 003 - Ying Wang (yw3076@nyu.edu)
 
 Office hours: TBD 
 
